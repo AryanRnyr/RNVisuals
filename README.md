@@ -19,11 +19,11 @@ RN Visuals is a modern, responsive photography and creative portfolio website. I
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/rn-visuals.git
+   git clone https://github.com/AryanRnyr/RNVisuals
    ```
 2. **Navigate to the project directory:**
    ```
-   cd rn-visuals
+   cd RNVisuals
    ```
 3. **Open `index.html` in your browser to view the site.**
 
